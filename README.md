@@ -1,3 +1,4 @@
 # Ganeshpr_Demo
 This is my first Git Repository.
-Written be Ganesh Prasad
+<br>
+Written by Ganesh Prasad
